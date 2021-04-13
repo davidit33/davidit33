@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm David, Automation Engineer :simple_smile:, Web Developmnet and Data Scienece Student...
+### I'm David, Automation Engineer :smiley:, Web Developmnet and Data Scienece Student :rocket:...
 
 If you are viewing this profile, please share your experience with me :pray:, tell me what I can improve to be a successful developer :sunglasses:, I give you all the confidence to speak to me as a Navy SEALs instructor would to his students :fire:.
 
