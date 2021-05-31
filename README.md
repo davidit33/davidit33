@@ -7,7 +7,7 @@ If you have a project, you have my full attention :eyes:, if it's a crazy projec
 
 I hope I can be helpful in some way :zap: and thanks for your help.
 
-Take a look at my resume :grinning:: https://davidtamayo.netlify.app/ 
-LinkedIn: www.linkedin.com/in/david-tamayo-733r99
-HackerRank: https://www.hackerrank.com/davidtr33
+Take a look at my resume :grinning:: https://davidtamayo.netlify.app/ .
+LinkedIn: www.linkedin.com/in/david-tamayo-733r99 .
+HackerRank: https://www.hackerrank.com/davidtr33 .
 Kaggle: https://www.kaggle.com/victorzeland
