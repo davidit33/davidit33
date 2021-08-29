@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm David, Automation Engineer :smiley:, Web Development and Data Scienece Student :rocket:...
+### I'm David, Automation Engineer :smiley:, Working in Telecommunications :satellite:, Software Development and Data Science :computer:. And a constant learner and ... I love Python :snake:.  :rocket:...
 
 If you are viewing this profile, please share your experience with me :pray:, tell me what I can improve to be a successful developer :sunglasses:, I give you all the confidence to speak to me as a Navy SEALs instructor would to his students :fire:.
 
@@ -11,3 +11,5 @@ Take a look at my resume :grinning:: https://davidtamayo.netlify.app/ </br>
 LinkedIn: www.linkedin.com/in/david-tamayo-733r99 </br>
 HackerRank: https://www.hackerrank.com/davidtr33 </br>
 Kaggle: https://www.kaggle.com/victorzeland
+
+
