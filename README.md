@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm David, Automation Engineer :smiley:, freelancer Software Developer :computer:. I love Python :snake:.  :rocket:...
+### I'm David, Automation Engineer :smiley:, freelancer Software Developer :computer:. Python passionate :snake:.  :rocket:...
 
 If you are viewing this profile, please share your experience with me :pray:, tell me what I can improve to be a successful developer :sunglasses:.
 
