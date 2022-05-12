@@ -3,7 +3,8 @@
 
 If you are viewing this profile, please share your experience with me :pray:, tell me what I can improve to be a successful developer :sunglasses:.
 
-If you have a project, you have my full attention :eyes:, if it's a crazy project :scream_cat:, you can call me at 3:00am(I'll be glad to hear my phone ring :smile_cat:)
+Let's make this presentation very simple, sharing my philosophy: 
+###I can learn it, I can solve it.
 
 I hope I can be helpful in some way :zap: and thanks for your help.
 
