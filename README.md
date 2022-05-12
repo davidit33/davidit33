@@ -4,7 +4,7 @@
 If you are viewing this profile, please share your experience with me :pray:, tell me what I can improve to be a successful developer :sunglasses:.
 
 Let's make this presentation very simple, sharing my philosophy: 
-###I can learn it, I can solve it.
+### I can learn it, I can solve it.
 
 I hope I can be helpful in some way :zap: and thanks for your help.
 
